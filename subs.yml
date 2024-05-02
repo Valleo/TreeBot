@@ -1,0 +1,5 @@
+subs:
+ - TerraInvicta
+ - Stellaris
+invitationAmount: 10
+subToInviteIn: "mockTree"
